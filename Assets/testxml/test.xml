@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<program>
+  <func_id/>
+  <action_id/>
+  <err_flag>0</err_flag>
+  <err_msg/>
+  <exception/>
+  <trace_msg/>
+  <trace_flag>false</trace_flag>
+  <parameter jsessionid_="3E24ADEA86E970B92B08264F0A6A329D"/>
+  -<room_list>
+   <row create_date__="28 10:05"
+         modify_name="3Dtest"
+         room_name="厨房"
+         corp_code="shjz"
+         modify_date_="14:33:21"
+         modify_date="2016-05-28"
+         scene_name="欧式风格"
+         scene_code="001"
+         room_y="34.1"
+         create_date_name="2016-05-28 10:05:33"
+         room_x="42.4"
+         corp_name="上海嘉真"
+         create_date_="10:05:33"
+         idx__="1"
+         room_id="20160528000005"
+         corp_name_="上海嘉真"
+         create_id="20160504183"
+         create_date="2016-05-28"
+         room_code="1"
+         state_name="有效 "
+         modify_id="20160504183"
+         modify_date__="28 14:33"
+         scene_id="20160528000141"
+         state="1"
+         create_name="3Dtest"
+         corp_id="2015001"
+         modify_date_name="2016-05-28 14:33:21"/>
+    <row create_date__="28 10:04"
+         modify_name="3Dtest"
+         room_name="客厅"
+         corp_code="shjz"
+         modify_date_="14:33:31"
+         modify_date="2016-05-28"
+         scene_name="欧式风格"
+         scene_code="001"
+         room_y="-28.1"
+         create_date_name="2016-05-28 10:04:41"
+         room_x="-32.7"
+         corp_name="上海嘉真"
+         create_date_="10:04:41"
+         idx__="2"
+         room_id="20160528000004"
+         corp_name_="上海嘉真"
+         create_id="20160504183"
+         create_date="2016-05-28"
+         room_code="0"
+         state_name="有效 "
+         modify_id="20160504183"
+         modify_date__="28 14:33"
+         scene_id="20160528000141"
+         state="1"
+         create_name="3Dtest"
+         corp_id="2015001"
+         modify_date_name="2016-05-28 14:33:31"/>
+
+   </room_list>
+   -<_page_info>
+      <room_list page_size="0"
+               page_no="1"
+               rec_cnt="0"/>
+   </_page_info>
+</program>

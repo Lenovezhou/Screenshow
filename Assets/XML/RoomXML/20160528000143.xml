@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<program>
+  <func_id></func_id>
+  <action_id></action_id>
+  <err_flag>0</err_flag>
+  <err_msg></err_msg>
+  <exception></exception>
+  <trace_msg></trace_msg>
+  <trace_flag>false</trace_flag>
+  <parameter jsessionid_="71812B4E551AC66B87EBACD6E4C7BB92"/>
+  <room_list>
+    <row modify_date_name="2016-07-27 11:30:45"
+         corp_id="2015001"
+         create_name="系统管理员"
+         state="1"
+         scene_id="20160528000143"
+         modify_date__="27 11:30"
+         modify_id="1"
+         state_name="有效  "
+         room_code="15215"
+         create_date="2016-07-27"
+         create_id="1"
+         corp_name_="上海嘉真"
+         room_id="20160727000011"
+         idx__="1"
+         create_date_="11:30:45"
+         corp_name="上海嘉真"
+         room_x="-2.6124"
+         create_date_name="2016-07-27 11:30:45"
+         room_y="41.7997"
+         scene_code="002"
+         scene_name="田园风光"
+         modify_date="2016-07-27"
+         modify_date_="11:30:45"
+         corp_code="shjz"
+         room_name="卧室"
+         modify_name="系统管理员"
+         create_date__="27 11:30"/>
+    <row modify_date_name="2016-06-16 18:00:10"
+         corp_id="2015001"
+         create_name="系统管理员"
+         state="1"
+         scene_id="20160528000143"
+         modify_date__="16 18:00"
+         modify_id="20160504183"
+         state_name="有效  "
+         room_code="101"
+         create_date="2016-05-29"
+         create_id="1"
+         corp_name_="上海嘉真"
+         room_id="20160529000011"
+         idx__="2"
+         create_date_="15:26:25"
+         corp_name="上海嘉真"
+         room_x="-32.7"
+         create_date_name="2016-05-29 15:26:25"
+         room_y="-28.1"
+         scene_code="002"
+         scene_name="田园风光"
+         modify_date="2016-06-16"
+         modify_date_="18:00:10"
+         corp_code="shjz"
+         room_name="客厅"
+         modify_name="3Dtest"
+         create_date__="29 15:26"/>
+  </room_list>
+  <_page_info>
+    <room_list rec_cnt="0"
+               page_no="1"
+               page_size="0"/>
+  </_page_info>
+</program>

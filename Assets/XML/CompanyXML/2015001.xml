@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Program>
+  <companeyinformation>
+        <raw id="1"
+             name="上"
+             address =""
+             text =""
+             music =""
+             timer ="" />
+        <raw id="2"
+             name="海"
+             address ="/upload/0181b09d-22f7-4ecf-9dda-3334ccb969b4.png"
+             text ="啊打工哦啊木结构的啊东方卡片的啊的哦副卡的发哦付款啊dog卡都赶快搞定发哦到饭卡哦分扣啊付款额佛可oak发哦到饭卡打工啊带饭卡的佛啊的"
+             music ="/upload/20160804040042.ogg"
+             timer ="3.0" />
+        <raw id="3"
+             name="奇"
+             address =""
+             text =""
+             music =""
+             timer ="" />
+        <raw id="4"
+             name="梦"
+             address ="/upload/32cb8423-cb74-4227-a68b-833289c8544f.jpg"
+             text ="啊打工哦啊木结构的啊东方卡片的啊的哦"
+             music ="/upload/20160804040042.ogg"
+             timer ="6.0" />
+        <raw id="5"
+              name="@@"
+             address =""
+             text =""
+             music =""
+             timer ="" />
+        <raw id="6"
+             name="￥￥"
+             address =""
+             text =""
+             music =""
+             timer ="" />
+        <raw id="7"
+             name="%%"
+             address =""
+             text =""
+             music =""
+             timer ="" />
+  </companeyinformation>
+</Program>
