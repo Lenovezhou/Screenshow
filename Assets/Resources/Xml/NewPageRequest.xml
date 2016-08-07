@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<program>
+<func_id>3D404766</func_id>
+<action_id>insert</action_id>
+<parameter 
+new_flag="1" 
+page_id="" 
+corp_id="" 
+brochure_id="" 
+res_audio_id="" 
+page_templet_id="" 
+copy_page_id="" 
+page_name="" 
+page_code="" 
+sequ="" 
+catalog_id="" 
+animation_action="1" 
+page_templet_name="内页模板01" 
+res_audio_name="" 
+page_file_name="" 
+page_file_url="" 
+page_pic_name=""
+page_pic_url="" 
+page_spic_name="" 
+page_spic_url="" 
+page_desc="" 
+ />
+</program>
