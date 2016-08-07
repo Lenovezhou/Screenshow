@@ -162,7 +162,10 @@ public class GridContorll : MonoBehaviour
                 {
                     isfind = false;
                 }
+
+
             }
+			//先将for循环执行完成后再执行此if语句
             if (!isfind || tparents[1].transform.childCount == 0)
             {
                 GameObject Ucell = Instantiate(Ucellprefab);

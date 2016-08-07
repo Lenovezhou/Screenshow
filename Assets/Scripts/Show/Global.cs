@@ -74,7 +74,7 @@ public class Global : MonoBehaviour {
                   //  Debug.Log(fi.ToString());
                         if (!fi.Contains("meta"))
                         {
-                            Debug.Log(fi+"fiiiiiiiiiiiiiis");
+
                             xmlnames.Add(fi);
                         }
                 }
