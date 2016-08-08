@@ -1,0 +1,34 @@
+[33mcommit 6ae271b49706df189e9e437e37fb80995d8e7b4e[m
+Author: lenove <271130940@qq.com>
+Date:   Sun Aug 7 23:05:17 2016 +0800
+
+    twice
+
+[1mdiff --git a/Assets/Scripts/Show/Global.cs b/Assets/Scripts/Show/Global.cs[m
+[1mindex f3a8300..fcc5c03 100644[m
+[1m--- a/Assets/Scripts/Show/Global.cs[m
+[1m+++ b/Assets/Scripts/Show/Global.cs[m
+[36m@@ -74,7 +74,7 @@[m [mpublic class Global : MonoBehaviour {[m
+                   //  Debug.Log(fi.ToString());[m
+                         if (!fi.Contains("meta"))[m
+                         {[m
+[31m-                            Debug.Log(fi+"fiiiiiiiiiiiiiis");[m
+[32m+[m
+                             xmlnames.Add(fi);[m
+                         }[m
+                 }[m
+[1mdiff --git a/Assets/Scripts/Show/GridContorll.cs b/Assets/Scripts/Show/GridContorll.cs[m
+[1mindex 78c5103..f5034d1 100644[m
+[1m--- a/Assets/Scripts/Show/GridContorll.cs[m
+[1m+++ b/Assets/Scripts/Show/GridContorll.cs[m
+[36m@@ -162,7 +162,10 @@[m [mpublic class GridContorll : MonoBehaviour[m
+                 {[m
+                     isfind = false;[m
+                 }[m
+[32m+[m
+[32m+[m
+             }[m
+[32m+[m			[32m//先将for循环执行完成后再执行此if语句[m
+             if (!isfind || tparents[1].transform.childCount == 0)[m
+             {[m
+                 GameObject Ucell = Instantiate(Ucellprefab);[m
